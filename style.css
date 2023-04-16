@@ -4,7 +4,7 @@
 }
 
 header{
-    background-color: #001AFF;
+    background-image: linear-gradient(#000, #0113BF);
     color: white;
     display: flex;
 }
@@ -26,4 +26,35 @@ font-size: 96px;
 line-height: 116px;
 
 color: #FFFFFF;
+}
+
+.coleção-carrinhos{
+    width: 25%;
+    margin-right: 24px;
+    margin-left: 500px;
+    padding: 50px 0;
+}
+
+.sobre-mim{
+    background-image: linear-gradient(#0113BF, #000);
+    color: white;
+    padding: 100px 0;
+}
+
+.titulo-sobre-mim{
+    padding: 24px 0;
+    margin-left: 24px;
+    font-size: xx-large;
+}
+
+.texto-um{
+    margin-left: 12px;
+    font-size: larger;
+    padding: 6px 0;
+}
+
+.texto-dois{
+    margin-left: 12px;
+    font-size: larger;
+    padding: 6px 0;
 }
